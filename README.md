@@ -1,7 +1,7 @@
 # DatabricksProject
 
 # Project Overview
-This comprehensive, industry-level data engineering project is designed to equip you with the essential skills needed to excel in the field and secure job offers in 2025. Unlike hobby projects, this one focuses on real-world scenarios and provides in-depth knowledge of updated Databricks and dbt functionalities. It covers the entire data pipeline lifecycle, from raw data ingestion to building a refined gold layer and connecting with a popular transformation tool like dbt.
+This comprehensive, industry-level data engineering project is  covers the entire data pipeline lifecycle, from raw data ingestion to building a refined gold layer and connecting with a popular transformation tool like dbt.
 # Architecture
 
 
